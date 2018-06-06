@@ -26,21 +26,21 @@
 
 .gris{
   float:left;
-  width: 31%;
+  width: 31.12%;
   height: 75px;
   background-color: #95A5A6;
 }
 
 .orange{
   float:left;
-  width: 35.1%;
+  width: 35%;
   height: 75px;
   background-color: #E67E22;
 }
 
-.jaune{
+.dark-orange{
   float:left;
-  width: 423px;
+  width: 424px;
   height: 75px;
   background-color: #D35400;
 }
@@ -52,7 +52,7 @@
   background-color: #16A085;
 }
 
-.dark-orange{
+.jaune{
   float:left;
   width: 423px;
   height: 75px;
